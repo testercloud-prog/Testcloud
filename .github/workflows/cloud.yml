@@ -42,7 +42,7 @@ on:
       upload_qcow2:
         description: 'Upload QCOW2 file to Mega: yes or no'
         required: true
-        default: 'yes'
+        default: 'no'
 
 permissions:
   contents: read
